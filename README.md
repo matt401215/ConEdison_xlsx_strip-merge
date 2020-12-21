@@ -1,6 +1,7 @@
 ## ConEdison_xlsx_strip-merge
 
-The purpose of this code is to format a large number of Con Edison utility Summary Statements, and combine them into a single xlsx file for processing. This was accomplished using two codes, xlsx_Read and MergeExcel.
+The purpose of this code is to format a large number of Con Edison utility Summary Statements (shown below), and combine them into a single xlsx file for processing. This was accomplished using two codes, xlsx_Read and MergeExcel.
+
 
 ![Example Summary Statement](https://github.com/matt401215/ConEdison_xlsx_strip-merge/blob/main/images/sumStatementSample.png)
 
