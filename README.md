@@ -2,7 +2,7 @@
 
 The purpose of this code is to format a large number of Con Edison utility Summary Statements, and combine them into a single xlsx file for processing. This was accomplished using two codes, xlsx_Read and MergeExcel.
 
-![](https://github.com/matt401215/ConEdison_xlsx_strip-merge/images/Screen Shot 2020-12-21 at 3.31.34 PM.png)
+![](https://github.com/matt401215/ConEdison_xlsx_strip-merge/images/sumStatementSample.png)
 
 # xlsx_Read_v3.py
 
