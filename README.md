@@ -10,4 +10,4 @@ For processing utility Summary Statements as formatted by Con Edison Energy Comp
 
 # MergeExcel.py
 
-For combining the formated data from returned from xlsx_Read_v3.py. The purpose of this project was to 
+For combining the formated data from returned from xlsx_Read_v3.py into a single xlsx file.
